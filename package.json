@@ -1,0 +1,12 @@
+{
+  "name": "investing-signal-engine",
+  "version": "0.1.0",
+  "private": false,
+  "description": "No-API investing signal backbone for portfolio-specific daily ideas",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
